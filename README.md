@@ -1,2 +1,2 @@
 # pygame-fractals
-Drawing fractals with the pygame library
+Plotting fractals with the pygame library
